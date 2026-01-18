@@ -60,6 +60,23 @@ Our [Butterfly Viewer page](https://olive-groves.github.io/butterfly_viewer) doc
 
 ### Run on [Python](https://olive-groves.github.io/butterfly_viewer/butterfly_viewer.html#python)
 
+### Install/Run on Linux
+
+Install
+```console
+curl -sL https://github.com/TheXploler/butterfly_viewer_linux_executable/releases/download/v1.1/install.sh | bash -s install
+```
+
+Uninstall
+```console
+curl -sL https://github.com/TheXploler/butterfly_viewer_linux_executable/releases/download/v1.1/install.sh | bash -s uninstall
+```
+
+Run
+```console
+butterfly_viewer
+```
+
 ### [Tutorial](https://olive-groves.github.io/butterfly_viewer/butterfly_viewer.html#tutorial) of main features
 
 ### [Help](https://olive-groves.github.io/butterfly_viewer/butterfly_viewer.html#help) with common questions
